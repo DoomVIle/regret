@@ -1,0 +1,19 @@
+{
+	id: "0f8f987f-a9a5-330c-91db-588ce49a0c75"
+	type: "player"
+	player_name: "pollotas"
+	ranks: {
+		0f8f987f-a9a5-330c-91db-588ce49a0c75: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "pollotas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E2FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

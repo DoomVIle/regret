@@ -1,0 +1,19 @@
+{
+	id: "a1336020-a3e7-37c4-ac27-c540c9f20df2"
+	type: "player"
+	player_name: "Shadowss71"
+	ranks: {
+		a1336020-a3e7-37c4-ac27-c540c9f20df2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Shadowss71"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

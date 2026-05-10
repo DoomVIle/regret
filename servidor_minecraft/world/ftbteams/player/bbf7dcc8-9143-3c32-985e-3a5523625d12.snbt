@@ -1,0 +1,19 @@
+{
+	id: "bbf7dcc8-9143-3c32-985e-3a5523625d12"
+	type: "player"
+	player_name: "ESPARTAN_MIGUEL"
+	ranks: {
+		bbf7dcc8-9143-3c32-985e-3a5523625d12: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ESPARTAN_MIGUEL"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFAA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

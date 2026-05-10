@@ -1,0 +1,19 @@
+{
+	id: "ae1068d8-f8f5-35cb-8dbe-4cb6ca8ed1e9"
+	type: "player"
+	player_name: "RAKNAROZ"
+	ranks: {
+		ae1068d8-f8f5-35cb-8dbe-4cb6ca8ed1e9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "RAKNAROZ"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59CD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

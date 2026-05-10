@@ -1,0 +1,19 @@
+{
+	id: "d54b8ea4-d29b-3dd9-91e2-552982a4d6fd"
+	type: "player"
+	player_name: "kevin03x"
+	ranks: {
+		d54b8ea4-d29b-3dd9-91e2-552982a4d6fd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "kevin03x"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

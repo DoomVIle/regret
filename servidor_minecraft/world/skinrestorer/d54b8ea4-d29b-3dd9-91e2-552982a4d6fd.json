@@ -1,0 +1,11 @@
+{
+  "provider": "web",
+  "argument": "https://s.namemc.com/i/9b3b96e1b7a69e49.png",
+  "variant": "classic",
+  "value": {
+    "name": "textures",
+    "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxODQzOTY1NDk4NCwKICAicHJvZmlsZUlkIiA6ICJmNWQwYjFhZTQxNmU0YTE5ODEyMTRmZGQzMWU3MzA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXRjaFRoZVdhdmUxMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zOTVkMmVkODhjYTNmN2NlMjgxMWNhMTNiZjY1M2UxYWE4Y2E3NzRmMDZmNmFjNzJmZDA5ZWNhNDhjOGEzNDg2IgogICAgfQogIH0KfQ\u003d\u003d",
+    "signature": "wGp/B30RF5ZhutTwSYp6qB+ASfOy+bAj2fs7BKHQ4eXvhFXwU8VmlMC3V1GeIz3+PPfXqmnYmlvjmgZTbwpTceycUzfEx9Ce93tBkT9T5Pf5fECCBsEB4Vx4fWPkHfPaQ7LiEs38SfIQmu7/SZGn8t5fAq/pW+TCsL0oXuGPO79PzppZQER+up+vP8xR8cbhePWTN7dHm06ZcR/UZjs6/8y0O402a8mihfffgmRXeTO/nKei4J6X3ajozRtMw+Nx2toFLXI24t/WdSMEJ2F7SeT5aKDNLiX0sQAsfjSlAHMKOhhYni8MvafkgPJXeFGjK9grje7CSPcdkAThOZAOuAUbPoksLkuyGMmRCtidGgXk18rI4CVXUch84Nsdjsh89nU65RZRM+Nk95ST5+YHjK0tJX8aM/oTTKV4joPq0WLytySPjbuXGe7ol9gYp6EDVKe0Mx8buAcdvEzuW1GNHMbq3C48KSVFxmKN8+jT0N6tG/uwq3N3swMktDPkz5aaamkMkD/i+E9Zezn24mfXK+XvppKW4k01sG6vZtf8a9A1LVQnwBnOy2XqueXRZR645S7qqNqDyXwjZnDz3jiOIt8UxCOwjWUbobuEmSZciDFoOEJkoFlJdbtFOZq/JkvaxnokB52g149ZnDCeg6a4g3A8vE0nayh4amn24ce2Nz8\u003d"
+  },
+  "version": 1
+}

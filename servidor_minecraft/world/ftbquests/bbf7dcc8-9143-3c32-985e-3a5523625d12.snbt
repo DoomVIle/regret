@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "bbf7dcc891433c32985e3a5523625d12"
+	name: "ESPARTAN_MIGUEL#bbf7dcc8"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

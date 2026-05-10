@@ -1,0 +1,19 @@
+{
+	id: "c339defe-deaf-3635-b4d5-ffe634741b10"
+	type: "player"
+	player_name: "DoomVile"
+	ranks: {
+		c339defe-deaf-3635-b4d5-ffe634741b10: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DoomVile"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C3FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}
